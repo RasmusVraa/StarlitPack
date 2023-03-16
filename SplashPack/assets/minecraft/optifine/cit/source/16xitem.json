@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+    "particle": "./transparent_icon",
+    "layer0": "items/apple"
+    }
+}

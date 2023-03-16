@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "./bottle_drink",
+		"layer1": "./bottle"
+		}
+	}
+}

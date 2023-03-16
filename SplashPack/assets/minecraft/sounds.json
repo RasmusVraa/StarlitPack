@@ -1,0 +1,12 @@
+{
+        "custom.handcuffs.close": {
+		"sounds": [
+			"custom/handcuffs.close"
+		]
+	},
+        "custom.handcuffs.open": {
+		"sounds": [
+			"custom/handcuffs.open"
+		]
+	}
+}
